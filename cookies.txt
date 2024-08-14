@@ -1,12 +1,12 @@
 # HTTrack Website Copier Cookie File
 # This file format is compatible with Netscape cookies
-avalogtrade.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
-avalogtrade.com	TRUE	/	FALSE	1999999999	PHPSESSID	be59ae2554175f93fdb86d12108e1f69
+Calpinetrade.com	TRUE	/	FALSE	1999999999	CameFrom	deleted
+Calpinetrade.com	TRUE	/	FALSE	1999999999	PHPSESSID	be59ae2554175f93fdb86d12108e1f69
 .pexels.com	TRUE	/	FALSE	1999999999	__cf_bm	1DEzPArd5O9OwAzhjnwFuKKVb3uchEcZNC6V5NlL.x0-1721814430-1.0.1.1-ZWkonjz07wrzLgDUwYonSBNDSihZwJTQZ_xZsTgnHYhDHK4FaX3EOHnyKHpTMpc0OvZMijHZeyif3ub16m5HzQ
 images.pexels.com	TRUE	/	FALSE	1999999999	SameSite	None
 .www.finra.org	TRUE	/	FALSE	1999999999	__cf_bm	qK7a0a5_jAH_rhYZR4m1zRd6LxEx5kA6eXb1XZYm0ac-1721814486-1.0.1.1-l5BaqM7jPLbobqIceC3.e7w66yEkwTVlbdk.aIbNwyVGfEyVFQuCAJJYJNlgJgXIpO7qzddWQzC8BB_bg5LXYw
 .www.finra.org	TRUE	/	FALSE	1999999999	_cfuvid	5nP26EjqlbQLD1ccnklBTNEevDXAIWeMhrwYnkGzu2s-1721814486678-0.0.1.1-604800000
 www.finra.org	TRUE	/	FALSE	1999999999	SameSite	None
-avalogtrade.com	TRUE	/	FALSE	1999999999	password	deleted
-avalogtrade.com	TRUE	/	FALSE	1999999999	password2	deleted
+Calpinetrade.com	TRUE	/	FALSE	1999999999	password	deleted
+Calpinetrade.com	TRUE	/	FALSE	1999999999	password2	deleted
 
