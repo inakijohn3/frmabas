@@ -1,0 +1,215 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<!-- Mirrored from mannatthemes.com/dastyle/default/auth-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Oct 2020 06:55:22 GMT -->
+
+
+<!-- Mirrored from avalogtrade.com/?a=signup by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Jul 2024 09:56:22 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <title>Avalogtrade</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+    <meta content="" name="description">
+    <meta content="" name="author">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- App favicon -->
+    <link rel="shortcut icon" href="images/favicon.png" />
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/icons.min.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/app.min.css" rel="stylesheet" type="text/css">
+    <script src="http://code.jivosite.com/widget/M4yAhjrrzt" async></script>
+
+</head>
+
+<body class="account-body accountbg">
+    <!-- Log In page -->
+<div class="container">
+    <div class="row vh-100 d-flex justify-content-center">
+        <div class="col-12 align-self-center">
+            <div class="row">
+                <div class="col-lg-5 mx-auto">
+                    <div class="card">
+                        <div class="card-body p-0 auth-header-box">
+                            <div class="text-center p-3"><a href="indexbc14.html?a=home" class="logo logo-admin"><img src="avalog.png" height="50" alt="logo"
+                                        class="auth-logo"></a>
+                                
+                            </div>
+                        </div>
+                        <div class="card-body">
+
+<ul class="nav-border nav nav-pills" role="tablist">
+                                <li class="nav-item"><a class="nav-link active font-weight-semibold" data-toggle="tab" href="#Register_Tab"
+                                        role="tab">Register</a></li>
+                                <li class="nav-item"><a class="nav-link font-weight-semibold" href="indexc30b.html?a=login">Login</a></li>
+                            </ul><!-- Tab panes -->
+                            <div class="tab-pane active px-3 pt-3" id="Register_Tab" role="tabpanel">
+
+ 
+
+ <script language=javascript>
+ function checkform() {
+  if (document.regform.fullname.value == '') {
+    alert("Please enter your full name!");
+    document.regform.fullname.focus();
+    return false;
+  }
+ 
+  
+  if (document.regform.username.value == '') {
+    alert("Please enter your username!");
+    document.regform.username.focus();
+    return false;
+  }
+  if (!document.regform.username.value.match(/^[A-Za-z0-9_\-]+$/)) {
+    alert("For username you should use English letters and digits only!");
+    document.regform.username.focus();
+    return false;
+  }
+  if (document.regform.password.value == '') {
+    alert("Please enter your password!");
+    document.regform.password.focus();
+    return false;
+  }
+  if (document.regform.password.value != document.regform.password2.value) {
+    alert("Please check your password!");
+    document.regform.password2.focus();
+    return false;
+  }
+ 
+  
+  if (document.regform.email.value == '') {
+    alert("Please enter your e-mail address!");
+    document.regform.email.focus();
+    return false;
+  }
+  if (document.regform.email.value != document.regform.email1.value) {
+    alert("Please retype your e-mail!");
+    document.regform.email.focus();
+    return false;
+  }
+
+  for (i in document.regform.elements) {
+    f = document.regform.elements[i];
+    if (f.name && f.name.match(/^pay_account/)) {
+      if (f.value == '') continue;
+      var notice = f.getAttribute('data-validate-notice');
+      var invalid = 0;
+      if (f.getAttribute('data-validate') == 'regexp') {
+        var re = new RegExp(f.getAttribute('data-validate-regexp'));
+        if (!f.value.match(re)) {
+          invalid = 1;
+        }
+      } else if (f.getAttribute('data-validate') == 'email') {
+        var re = /^[^\@]+\@[^\@]+\.\w{2,4}$/;
+        if (!f.value.match(re)) {
+          invalid = 1;
+        }
+      }
+      if (invalid) {
+        alert('Invalid account format. Expected '+notice);
+        f.focus();
+        return false;
+      }
+    }
+  }
+
+  if (document.regform.agree.checked == false) {
+    alert("You have to agree with the Terms and Conditions!");
+    return false;
+  }
+
+  return true;
+ }
+
+ function IsNumeric(sText) {
+  var ValidChars = "0123456789";
+  var IsNumber=true;
+  var Char;
+  if (sText == '') return false;
+  for (i = 0; i < sText.length && IsNumber == true; i++) { 
+    Char = sText.charAt(i); 
+    if (ValidChars.indexOf(Char) == -1) {
+      IsNumber = false;
+    }
+  }
+  return IsNumber;
+ }
+ </script>
+ 
+
+ 
+
+<form method=post onsubmit="return checkform()" name="regform" class="form-horizontal auth-form my-4"><input type="hidden" name="form_id" value="17218142006358"><input type="hidden" name="form_token" value="1c0c68fb1cd8d5f1265da1ef6819d534">
+<input type=hidden name=a value="signup">
+<input type=hidden name=action value="signup">
+<table cellspacing=0 cellpadding=2 border=0 width=100%><div class="form-group"><label for="username">Full Name</label><div class="input-group mb-3">
+     <input type=text name=fullname value="" class="form-control" size=30 placeholder="Enter Full Name"></div></div>
+<div class="form-group"><label for="username">Username</label><div class="input-group mb-3">
+     <input type=text name=username value="" class="form-control" size=30 placeholder="Enter Username"></div></div>
+<div class="form-group"><label for="username">Define Password</label><div class="input-group mb-3">
+     <input type=password name=password value="" class="form-control" size=30 placeholder="Enter Password"></div></div>
+<div class="form-group"><label for="username">Retype Password</label><div class="input-group mb-3">
+     <input type=password name=password2 value="" class="form-control" size=30 placeholder="Enter Retype Password"></div></div>
+
+
+
+<div class="form-group"><label for="username">E-mail Address</label><div class="input-group mb-3">
+     <input type=text name=email value="" class="form-control" size=30 placeholder="Enter Email"></div></div>
+<div class="form-group"><label for="username">Retype E-mail</label><div class="input-group mb-3">
+     <input type=text name=email1 value="" class="form-control" size=30 placeholder="Enter Retype Email"></div></div>
+<div class="form-group"><label for="username">Secret question</label><div class="input-group mb-3">
+     <input type=text name=sq value="" class="form-control" size=30 placeholder="Enter Secret question"></div></div>
+<div class="form-group"><label for="username">Secret answer</label><div class="input-group mb-3">
+     <input type=text name=sa value="" class="form-control" size=30 placeholder="Enter Secret answer"></div></div>
+<div class="form-group row mt-4">
+<div class="col-sm-12">
+<span>Your Upline: N/A (n/a)</span>
+</div></div>
+
+<div class="form-group row mt-4">
+<div class="col-sm-12">
+<div class="custom-control custom-switch switch-success">
+     <input type=checkbox name=agree value=1  class="custom-control-input" id="customSwitchSuccess"> 
+<label class="custom-control-label text-muted" for="customSwitchSuccess">I agree with <a href="indexa972.html?a=rules" class="text-primary">Terms and conditions</a></label>
+                                            </div>
+                                        </div>
+                                        <!--end col-->
+                                    </div>
+                                    <!--end form-group-->
+                                    <div class="form-group mb-0 row">
+                                        <div class="col-12 mt-2"><button class="btn btn-primary btn-block waves-effect waves-light" type="submit" value="Register">Register <i class="fas fa-sign-in-alt ml-1"></i></button></div>
+                                        <!--end col-->
+                                    </div>
+                                    <!--end form-group-->
+</table>
+</form>
+<!--end form-->
+                                <p class="mb-0 text-muted">Already have an account ?<a href="indexc30b.html?a=login" class="text-primary ml-2">Log in</a></p>
+                            </div>
+                        </div>
+                        <!--end card-body-->
+                        <div class="card-body bg-light-alt text-center"><span class="text-muted d-none d-sm-inline-block">Avalogtrade ©
+                                2022</span></div>
+                    </div>
+                    <!--end card-->
+                </div>
+                <!--end col-->
+            </div>
+            <!--end row-->
+        </div>
+        <!--end col-->
+    </div>
+    <!--end row-->
+</div>
+    <!--end container-->
+    <!-- End Log In page -->
+    <!-- jQuery  -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/waves.js"></script>
+    <script src="assets/js/feather.min.js"></script>
+    <script src="assets/js/simplebar.min.js"></script>
+</body>
+
+<!-- Mirrored from avalogtrade.com/?a=signup by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 24 Jul 2024 09:56:22 GMT -->
+</html>

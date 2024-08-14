@@ -1,0 +1,146 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Jul 2024 10:42:50 at http://avalogtrade.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://avalogtrade.com/ -O1 "C:\My Web Sites\frmabas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:47:12	Error: 	"Not Found" (404) at link avalogtrade.com/translate.google.com/translate_a/elementa0d8.js?cb=googleTranslateElementInit (from avalogtrade.com/)
+10:47:12	Error: 	"Not Found" (404) at link avalogtrade.com/indexbc14.html?a=home (from avalogtrade.com/)
+10:56:22	Error: 	"Not Found" (404) at link avalogtrade.com/www.livecoinwatch.com/static/lcw-widget.js (from avalogtrade.com/)
+10:56:22	Warning: 	Retry after error -4 (Incorrect length (274547 Bytes, 447510 expected)) at link avalogtrade.com/v1/front/images/male-worker-standing.png (from avalogtrade.com/)
+10:56:24	Warning: 	Retry after error -4 (Connect Error) at link avalogtrade.com/v1/front/js/modernizr.js (from avalogtrade.com/)
+10:56:27	Warning: 	Retry after error -4 (Connect Error) at link avalogtrade.com/v1/front/js/bootstrap.bundle.js (from avalogtrade.com/)
+10:56:27	Error: 	"Not Found" (404) at link avalogtrade.com/www.google-analytics.com/analytics.html (from avalogtrade.com/)
+10:56:31	Warning: 	File not parsed, looks like binary: avalogtrade.com/v1/front/revolution/css/openhand.html
+10:56:31	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/v1/front/revolution/css/openhand.html
+10:56:31	Warning: 	File not parsed, looks like binary: avalogtrade.com/v1/front/revolution/css/closedhand.html
+10:56:31	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/v1/front/revolution/css/closedhand.html
+10:56:31	Error: 	"Not Found" (404) at link avalogtrade.com/v1/front/assets/img/crypto.jpg (from avalogtrade.com/?a=about)
+10:56:31	Warning: 	Retry after error -4 (Incorrect length (163136 Bytes, 412054 expected)) at link avalogtrade.com/v1/front/images/parallax-bg16.jpg (from avalogtrade.com/?a=about)
+10:56:35	Error: 	"Not Found" (404) at link avalogtrade.com/www.google-analytics.com/analytics.js (from avalogtrade.com/?a=about)
+10:56:35	Warning: 	Retry after error -4 (Incorrect length (461647 Bytes, 712520 expected)) at link avalogtrade.com/v1/front/images/about-img4.png (from avalogtrade.com/?a=crypto)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/v1/front/images/steel-pipe-construction-project.jpeg (from avalogtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/v1/front/images/FqzLTXOaUAAKocW-2.jpeg (from avalogtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/v1/front/images/oil-inspection.jpeg (from avalogtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/v1/front/images/rig-pf-1-300x200.jpeg (from avalogtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/v1/front/images/oil-construction-project.jpeg (from avalogtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/"v1/front/images/cfd-indices-parallex-bg.jpg" (from avalogtrade.com/?a=indices)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/"v1/front/images/about-img1.jpg" (from avalogtrade.com/?a=indices)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/"v1/front/images/parallax-bg32.jpg" (from avalogtrade.com/?a=pricing)
+10:56:36	Error: 	"Not Found" (404) at link avalogtrade.com/dash/plugins/jvectormap/jquery-jvectormap-2.0.2.css" rel="stylesheet (from avalogtrade.com/?a=faq)
+10:58:35	Warning: 	Retry after error -4 (No data (connection closed)) at link cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css (from avalogtrade.com/?a=faq)
+10:58:36	Error: 	"Not Found" (404) at link avalogtrade.com/f-logo.png (from avalogtrade.com/?a=faq)
+11:01:59	Warning: 	Retry after error -4 (Connect Error) at link avalogtrade.com/assets/css/app.min.css (from avalogtrade.com/?a=login)
+11:02:01	Warning: 	Retry after error -4 (No data (connection closed)) at link avalogtrade.com/v1/front/images/about-img4.png (from avalogtrade.com/?a=crypto)
+11:02:09	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/css/images/ui-icons_444444_256x240.html (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:09	Warning: 	Retry after error -4 (No data (connection closed)) at link avalogtrade.com/dash/assets/css/images/ui-icons_555555_256x240.html (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/css/images/ui-icons_ffffff_256x240.html (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/css/images/ui-icons_777620_256x240.html (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/css/images/ui-icons_cc0000_256x240.html (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/css/images/ui-icons_777777_256x240.html (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-brands-400.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-brands-400d41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-brands-400.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-regular-400.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-regular-400d41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-regular-400.html (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-regular-400.woff (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-regular-400.ttf (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-regular-400.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-solid-900.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-solid-900d41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/fa-solid-900.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-brands-400.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-brands-400d41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-brands-400.html (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-brands-400.woff (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-brands-400.ttf (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-brands-400.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400d41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400.html (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400.woff (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400.ttf (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-solid-900.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-solid-900d41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-solid-900.html (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-solid-900.woff (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-solid-900.ttf (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-solid-900.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/materialdesignicons-webfonta5da.eot?v=4.7.95 (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/materialdesignicons-webfontd41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Warning: 	Retry after error -4 (Incorrect length (164008 Bytes, 390766 expected)) at link avalogtrade.com/dash/assets/fonts/materialdesignicons-webfonta5da.ttf?v=4.7.95 (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/dripicons-v2.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/dripicons-v2d41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/dripicons-v2.woff (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/dripicons-v2.ttf (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/dripicons-v2.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/feather144f.ttf?sdxovp (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/feather144f.woff?sdxovp (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/feather144f.svg?sdxovp (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/themify9f24.eot?-fvbane (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/themifyd41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/themify9f24.svg?-fvbane (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/typicons.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/typiconsd41d.eot? (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/typicons.woff (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/typicons.ttf (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/typicons.svg (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/plugins/dropify/fonts/dropify.eot (from avalogtrade.com/dash/plugins/dropify/css/dropify.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/plugins/dropify/fonts/dropify.woff (from avalogtrade.com/dash/plugins/dropify/css/dropify.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/plugins/dropify/fonts/dropify.ttf (from avalogtrade.com/dash/plugins/dropify/css/dropify.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/plugins/dropify/fonts/dropify.svg (from avalogtrade.com/dash/plugins/dropify/css/dropify.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dashboard/images/cc-back.jpg (from avalogtrade.com/dash/assets/css/mastercard.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/open.png (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/close.png (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/pattern-sm.png (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/inter-light46a7.html?v=3.13 (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/inter-light46a7.woff?v=3.13 (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/iter-bold46a7.html?v=3.13 (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/1.html (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/products/offer.html (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/products/bg-cart.png (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/pattern.png (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/images/auth-bg.png (from avalogtrade.com/dash/assets/css/app.min.css)
+11:02:11	Warning: 	Moved Permanently for cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css
+11:02:11	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css and https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css
+11:02:11	Warning: 	Warning moved treated for cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css (real one is https://cdn.datatables.net/1.10.24/css/jquery.dataTables.min.css)
+11:02:11	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/fa-brands-400.html
+11:02:11	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/fa-brands-400.html
+11:02:11	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/fa-regular-400.html
+11:02:11	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/fa-regular-400.html
+11:02:11	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/fa-solid-900.html
+11:02:11	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/fa-solid-900.html
+11:02:12	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/la-brands-400.html
+11:02:12	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/la-brands-400.html
+11:02:13	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/la-regular-400.html
+11:02:13	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/la-regular-400.html
+11:02:13	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/la-solid-900.html
+11:02:13	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/la-solid-900.html
+11:02:14	Warning: 	Retry after error -4 (Incorrect length (108605 Bytes, 390868 expected)) at link avalogtrade.com/assets/fonts/materialdesignicons-webfonta5daa5da.eot?v=4.7.95 (from avalogtrade.com/assets/css/icons.min.css)
+11:02:26	Warning: 	Retry after error -4 (Incorrect length (132011 Bytes, 390868 expected)) at link avalogtrade.com/assets/fonts/materialdesignicons-webfontd41dd41d.eot? (from avalogtrade.com/assets/css/icons.min.css)
+11:02:38	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/materialdesignicons-webfonta5daa5da.html?v=4.7.95
+11:02:38	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/materialdesignicons-webfonta5daa5daa5da.html
+11:02:38	Warning: 	Retry after error -4 (Incorrect length (130672 Bytes, 386840 expected)) at link avalogtrade.com/assets/fonts/materialdesignicons-webfonta5daa5da.woff?v=4.7.95 (from avalogtrade.com/assets/css/icons.min.css)
+11:03:27	Warning: 	Retry after error -4 (Incorrect length (521370 Bytes, 768097 expected)) at link avalogtrade.com/images/banner/banner10.png (from avalogtrade.com/?a=rules)
+11:03:28	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/css/images/ui-icons_555555_256x240.html (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:03:28	Warning: 	Retry after error -4 (Incorrect length (98062 Bytes, 390766 expected)) at link avalogtrade.com/dash/assets/fonts/materialdesignicons-webfonta5da.ttf?v=4.7.95 (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:03:36	Warning: 	Retry after error -4 (Incorrect length (137406 Bytes, 390868 expected)) at link avalogtrade.com/assets/fonts/materialdesignicons-webfonta5daa5da.eot?v=4.7.95 (from avalogtrade.com/assets/css/icons.min.css)
+11:03:39	Warning: 	Retry after error -4 (Incorrect length (131277 Bytes, 390868 expected)) at link avalogtrade.com/assets/fonts/materialdesignicons-webfontd41dd41d.eot? (from avalogtrade.com/assets/css/icons.min.css)
+11:03:42	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/inter-light46a746a7.html?v=3.13
+11:03:42	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/inter-light46a746a746a7.html
+11:03:42	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/inter-regular46a746a7.html?v=3.13
+11:03:42	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/inter-regular46a746a746a7.html
+11:03:42	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/inter-medium46a746a7.html?v=3.13
+11:03:42	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/inter-medium46a746a746a7.html
+11:03:42	Warning: 	File not parsed, looks like binary: avalogtrade.com/assets/fonts/inter-bold46a746a7.html?v=3.13
+11:03:42	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/assets/fonts/inter-bold46a746a746a7.html
+11:03:57	Error: 	"Incorrect length (82329 Bytes, 390766 expected)" (-4) after 2 retries at link avalogtrade.com/dash/assets/fonts/materialdesignicons-webfonta5da.ttf?v=4.7.95 (from avalogtrade.com/dash/assets/css/icons.min.css)
+11:03:57	Error: 	"Incorrect length (118394 Bytes, 390868 expected)" (-4) after 2 retries at link avalogtrade.com/assets/fonts/materialdesignicons-webfonta5daa5da.eot?v=4.7.95 (from avalogtrade.com/assets/css/icons.min.css)
+11:03:57	Error: 	"Incorrect length (150991 Bytes, 390868 expected)" (-4) after 2 retries at link avalogtrade.com/assets/fonts/materialdesignicons-webfontd41dd41d.eot? (from avalogtrade.com/assets/css/icons.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 7 seconds : 397 links scanned, 289 files written (30223736 bytes overall) [18162843 bytes received at 14335 bytes/sec], 21205285 bytes transferred using HTTP compression in 202 files, ratio 36%, 2.2 requests per connection
+(89 errors, 46 warnings, 0 messages)
