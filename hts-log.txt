@@ -1,4 +1,4 @@
-HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Jul 2024 10:42:50 at http://Calpinetrade.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Jul 2024 10:42:50 at http://Capitatrades.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
 Calpine
 (winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://avalogtrade.com/ -O1 "C:\My Web Sites\frmabas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
 
@@ -20,13 +20,13 @@ Calpine
 CalpineCalpine
 10:56:22	Error: 	"Not Found" (404) at link avalogtrade.com/www.livecoinwatch.com/static/lcw-widget.Calpineom avalogtrade.com/)Calpine
 CalpineCalpine
-10:56:22	Warning: 	Retry after error -4 (Incorrect length (274547 Bytes, 447510 expected)) at link Calpinetrade.com/v1/front/images/male-worker-standing.Calpinerom avalogtrade.com/)
+10:56:22	Warning: 	Retry after error -4 (Incorrect length (274547 Bytes, 447510 expected)) at link Capitatrades.com/v1/front/images/male-worker-standing.Calpinerom avalogtrade.com/)
 CalpineCalpine
 10:56:24	Warning: 	Retry after error -4 (CoCalpineError) at link avalogtrade.com/v1/front/js/modernizr.jsCalpine avalogtrade.com/)
 CalpineCalpine
 10:56:27	Warning: 	Retry after error -4 (CoCalpineError) at link avalogtrade.com/v1/front/js/bootstrap.bCalpinejs (from avalogtrade.com/)
 CalpineCalpine
-10:56:27	Error: 	"Not Found" (404) at link Calpinetrade.com/www.google-analytics.com/analytics.html (from avalogCalpinecom/)
+10:56:27	Error: 	"Not Found" (404) at link Capitatrades.com/www.google-analytics.com/analytics.html (from avalogCalpinecom/)
 CalpineCalpine
 10:56:31	Warning: 	File not parsed, looks lCalpinenary: avalogtrade.com/v1/front/revolution/css/openhaCalpinel
 CalpineCalpine
@@ -36,75 +36,75 @@ CalpineCalpine
 CalpineCalpine
 10:56:31	Warning: 	Warning: store applicatiCalpineet-stream without scan: C:/My Web Sites/frmabas/avalogtrade.com/v1/fCalpineevolution/css/closedhand.html
 CalpineCalpine
-10:56:31	Error: 	"Not Found" (404) at link Calpinetrade.com/v1/front/assets/img/crypto.jpg (from avalogtrade.com/?a=abCalpine
+10:56:31	Error: 	"Not Found" (404) at link Capitatrades.com/v1/front/assets/img/crypto.jpg (from avalogtrade.com/?a=abCalpine
 CalpineCalpine
 10:56:31	Warning: 	Retry after error -4 (InCalpinet length (163136 Bytes, 412054 expected)) at link avalogtrade.com/v1Calpine/images/parallax-bg16.jpg (from avalogtrade.com/?a=about)
 CalpineCalpine
-10:56:35	Error: 	"Not Found" (404) at link Calpinetrade.com/www.google-analytics.com/analytics.js (froCalpineogtrade.com/?a=about)
+10:56:35	Error: 	"Not Found" (404) at link Capitatrades.com/www.google-analytics.com/analytics.js (froCalpineogtrade.com/?a=about)
 CalpineCalpine
 10:56:35	Warning: 	Retry after error -4 (InCalpinet length (461647 Bytes, 712520 expected)) at link avCalpineade.com/v1/front/images/about-img4.png (from avalogtrade.com/?a=crypto)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/v1/front/images/steel-pipe-construction-project.Calpinefrom avalogtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/v1/front/images/steel-pipe-construction-project.Calpinefrom avalogtrade.com/?a=oil-and-gas)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/v1/front/images/FqzLTXOaUAAKocW-2.jpeg (fromCalpinegtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/v1/front/images/FqzLTXOaUAAKocW-2.jpeg (fromCalpinegtrade.com/?a=oil-and-gas)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/v1/front/images/oil-inspection.jpeg (from aCalpinerade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/v1/front/images/oil-inspection.jpeg (from aCalpinerade.com/?a=oil-and-gas)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/v1/front/images/rig-pf-1-300x200.jpeg (from avCalpineade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/v1/front/images/rig-pf-1-300x200.jpeg (from avCalpineade.com/?a=oil-and-gas)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/v1/front/images/oil-construction-project.jCalpinerom avalogtrade.com/?a=oil-and-gas)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/v1/front/images/oil-construction-project.jCalpinerom avalogtrade.com/?a=oil-and-gas)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/"v1/front/images/cfd-indices-parallex-bg.jpCalpineom avalogtrade.com/?a=indices)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/"v1/front/images/cfd-indices-parallex-bg.jpCalpineom avalogtrade.com/?a=indices)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/"v1/front/images/about-img1.jpg" (from avaCalpinede.com/?a=indices)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/"v1/front/images/about-img1.jpg" (from avaCalpinede.com/?a=indices)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/"v1/front/images/parallax-bg32.jpg" (from aCalpinerade.com/?a=pricing)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/"v1/front/images/parallax-bg32.jpg" (from aCalpinerade.com/?a=pricing)
 CalpineCalpine
-10:56:36	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/plugins/jvectormap/jquery-jvectormap-2.Calpines" rel="stylesheet (from avalogtrade.com/?a=faq)
+10:56:36	Error: 	"Not Found" (404) at link Capitatrades.com/dash/plugins/jvectormap/jquery-jvectormap-2.Calpines" rel="stylesheet (from avalogtrade.com/?a=faq)
 CalpineCalpine
 10:58:35	Warning: 	Retry after error -4 (NoCalpine(connection closed)) at link cdn.datatables.net/1.10.Calpine/jquery.dataTables.min.css (from avalogtrade.com/?a=faq)
 CalpineCalpine
-10:58:36	Error: 	"Not Found" (404) at link Calpinetrade.com/f-logo.png (from avalogtrade.com/?a=faq)Calpine
+10:58:36	Error: 	"Not Found" (404) at link Capitatrades.com/f-logo.png (from avalogtrade.com/?a=faq)Calpine
 CalpineCalpine
 11:01:59	Warning: 	Retry after error -4 (CoCalpineError) at link avalogtrade.com/assets/css/app.min.csCalpinem avalogtrade.com/?a=login)
 CalpineCalpine
 11:02:01	Warning: 	Retry after error -4 (NoCalpine(connection closed)) at link avalogtrade.com/v1/froCalpineges/about-img4.png (from avalogtrade.com/?a=crypto)
 CalpineCalpine
-11:02:09	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/css/images/ui-icons_444444_256x240.html (from avalogtradeCalpineash/assets/css/jquery-ui.min.css)
+11:02:09	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/css/images/ui-icons_444444_256x240.html (from avalogtradeCalpineash/assets/css/jquery-ui.min.css)
 CalpineCalpine
 11:02:09	Warning: 	Retry after error -4 (No data (connection closed)) at link avalogtrade.com/dash/Calpine/css/images/ui-icons_555555_256x240.html (from avalogtrade.com/dash/assets/css/Calpine-ui.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/css/images/ui-icons_ffffff_256x240Calpine(from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/css/images/ui-icons_ffffff_256x240Calpine(from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/css/images/ui-icons_777620_25Calpinehtml (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/css/images/ui-icons_777620_25Calpinehtml (from avalogtrade.com/dash/assets/css/jquery-ui.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/css/images/ui-icons_cc0000_256x240.Calpinefrom avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/css/images/ui-icons_cc0000_256x240.Calpinefrom avalogtrade.com/dash/assets/css/jquery-ui.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/css/images/ui-icons_777777_256x240.Calpinefrom avalogtrade.com/dash/assets/css/jquery-ui.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/css/images/ui-icons_777777_256x240.Calpinefrom avalogtrade.com/dash/assets/css/jquery-ui.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-brands-400.eot (fromCalpinegtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-brands-400.eot (fromCalpinegtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-brands-400d41d.eCalpinerom avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-brands-400d41d.eCalpinerom avalogtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-brands-400.svg (fCalpinealogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-brands-400.svg (fCalpinealogtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-regular-400.eot Calpineavalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-regular-400.eot Calpineavalogtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-regular-400d41d.eot? (froCalpineogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-regular-400d41d.eot? (froCalpineogtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-regular-400.html (from aCalpinerade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-regular-400.html (from aCalpinerade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-regular-400.wCalpinerom avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-regular-400.wCalpinerom avalogtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-regular-400.ttf (frCalpinelogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-regular-400.ttf (frCalpinelogtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-regular-400.svg (from avalogtraCalpine/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-regular-400.svg (from avalogtraCalpine/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-solid-900.eCalpineom avalogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-solid-900.eCalpineom avalogtrade.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-solid-900d41d.eot? (from Calpinetrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-solid-900d41d.eot? (from Capitatrades.com/dash/assets/css/icons.min.css)
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/fa-solid-900.svg (fCalpinealogtrade.com/dash/assets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/fa-solid-900.svg (fCalpinealogtrade.com/dash/assets/css/icons.min.css)
 
 11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-brands-400.eot (from avalogtrade.com/dash/assets/css/icons.min.css)
 
@@ -126,7 +126,7 @@ CalpineCalpine
 Calpine
 11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400.woff (fCalpinealogtrade.com/dash/assets/css/icons.min.css)Calpine
 CalpineCalpine
-11:02:10	Error: 	"Not Found" (404) at link Calpinetrade.com/dash/assets/fonts/la-regular-400.ttf (from avalogtrade.comCalpineassets/css/icons.min.css)
+11:02:10	Error: 	"Not Found" (404) at link Capitatrades.com/dash/assets/fonts/la-regular-400.ttf (from avalogtrade.comCalpineassets/css/icons.min.css)
 CalpineCalpine
 11:02:10	Error: 	"Not Found" (404) at link avalogtrade.com/dash/assets/fonts/la-regular-400.svg (frCalpinelogtrade.com/dash/assets/css/icons.min.css)Calpine
 CalpineCalpine

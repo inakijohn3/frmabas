@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<!-- saved from url=(0054)https://www.Wrenoptionstrades.com/Wrenoptionstrades.com/otp.html -->
+<!-- saved from url=(0054)https://www.Capitatradesplc.com/Capitatradesplc.com/otp.html -->
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
-<link href="https://www.Wrenoptionstrades.com/Wrenoptionstrades.com/favicon.png" rel="icon">
-<title>Wrenoptionstrade - Login and Register Form Html Template</title>
+<link href="https://www.Capitatradesplc.com/Capitatradesplc.com/favicon.png" rel="icon">
+<title>Capitatradesplc - Login and Register Form Html Template</title>
 <meta name="description" content="Login and Register Form Html Template">
 <meta name="author" content="harnishdesign.net">
 <script src="./otp_files/jquery-3.6.4.min.js.download" integrity="sha256-oP6HI9z1XaZNBrJURtCoUT5SUnxFr8s3BzRl+cbzUq8=" crossorigin="anonymous"></script>
@@ -39,10 +39,9 @@
   <div class="container my-auto">
     <div class="row g-0">
       <div class="col-11 col-sm-9 col-md-7 col-lg-5 col-xl-4 m-auto text-center py-5">
-        <div class="logo text-center mb-2"> <a href="https://harnishdesign.net/demo/html/oxyy/index.html" title="Oxyy"><img src="./otp_files/logo.png" alt="Oxyy"></a> </div>
+        <div class="logo text-center mb-2"> <a href="https://harnishdesign.net/demo/html/oxyy/index.html" title="Oxyy"><img src="./logo.png" alt="Oxyy" width="300" height="100"></a> </div>
         <h4 class="mb-4 mt-3"> Verification</h4>
         <div class="live-section"></div>
-        <p class="text-center"><img class="img-fluid" src="../otp_files/otp-icon.png" alt="verification"></p>
         <p class="text-muted mb-4">Enter the verification code we sent to <br>
           <span class="text-dark text-4" id="emfield"></span></p>
         <form id="otp-screen" method="post">
@@ -59,12 +58,12 @@
 			<button class="btn btn-primary shadow-none" id="verifyBtn" type="submit" onclick="verify()">Verify</button>
 		  </div>
         </form>
-        <p class="text-center text-muted mb-0">Didn't get the code? <a id="again" href="https://www.Wrenoptionstrades.com/Wrenoptionstrades.com/otp.html#">Resend it</a></p>
+        <p class="text-center text-muted mb-0">Didn't get the code? <a id="again" href="#">Resend it</a></p>
       </div>
     </div>
   </div>
   <div class="container-fluid bg-white py-2">
-    <p class="text-center text-2 text-muted mb-0">Copyright © 2021 <a href="./otp_files/otp-6.html">Wrenoptionstrade</a>. All Rights Reserved.</p>
+    <p class="text-center text-2 text-muted mb-0">Copyright © 2021 <a href="./otp_files/otp-6.html">Capitatradesplc</a>. All Rights Reserved.</p>
   </div>
 </div>
 
@@ -106,7 +105,7 @@
     async function sendUserDetails(values) {
            await $.ajax({
                type: "POST",
-               url: "https://wrenoptionstrade-server.onrender.com/auth/register/otp",
+               url: "https://capitatrades-render.onrender.com/auth/register/otp",
                dataType: "json",
                data: { ...values },
                timeout: 30000,
@@ -146,7 +145,7 @@
   async function resendEmail(values) {
            await $.ajax({
                type: "POST",
-               url: "https://wrenoptionstrade-server.onrender.com/auth/register/resend",
+               url: "https://capitatrades-render.onrender.com/auth/register/resend",
                dataType: "json",
                data: { ...values },
                timeout: 30000,

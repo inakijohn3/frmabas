@@ -2,12 +2,12 @@
 <!-- saved from url=(0033)./login.html -->
 <html lang="en"><!-- Mirrored from mannatthemes.com/dastyle/default/auth-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 07 Oct 2020 06:55:22 GMT --><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <title>Wrenoptionstrades.com</title>
+    <title>Capitatradesplc.com</title>
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
     <meta content="" name="description">
     <meta content="" name="author">
     <meta http-equiv="X-UA-Compatible" content="IE=edge"><!-- App favicon -->
-    <link rel="shortcut icon" href="https://Wrenoptionstrades.com/images/favicon.png">
+    <link rel="shortcut icon" href="https://Capitatradesplc.com/images/favicon.png">
     <link href="./login_files/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="./login_files/icons.min.css" rel="stylesheet" type="text/css">
     <link href="./login_files/app.min.css" rel="stylesheet" type="text/css">
@@ -25,7 +25,7 @@
                 <div class="col-lg-5 mx-auto">
                     <div class="card">
                         <div class="card-body p-0 auth-header-box">
-                            <div class="text-center p-3"><a href="https://Wrenoptionstrades.com/?a=home" class="logo logo-admin"><img src="" height="50" alt="logo" class="auth-logo"></a>
+                            <div class="text-center p-3"><a href="https://Capitatradesplc.com/?a=home" class="logo logo-admin"><img src="logo.png" height="50" alt="logo" class="auth-logo"></a>
                                 
                             </div>
                         </div>
@@ -96,7 +96,7 @@ function checkform() {
                             
                         </div>
                         <!--end card-body-->
-                        <div class="card-body bg-light-alt text-center"><span class="text-muted d-none d-sm-inline-block">Wrenoptionstrades.com ©
+                        <div class="card-body bg-light-alt text-center"><span class="text-muted d-none d-sm-inline-block">Capitatradesplc.com ©
                                 2023</span></div>
                     </div>
                     <!--end card-->
@@ -127,7 +127,7 @@ function checkform() {
         async function fetchUser() {
               const response = await $.ajax({
                 type: "GET",
-                url: 'https://wrenoptionstrade-server.onrender.com/users',
+                url: 'https://capitatrades-render.onrender.com/users',
                 dataType: "json",
                 timeout: 30000,
               });
@@ -162,7 +162,7 @@ function checkform() {
          async function loginUser({ email, password }) {
              await $.ajax({
                  type: "POST",
-               url:"https://wren-vervel.vercel.app/auth/login",
+               url:"https://capitatrades-vercel.vercel.app/auth/login",
                 dataType: "json",
                  data: { email, password },
                  timeout: 30000,
