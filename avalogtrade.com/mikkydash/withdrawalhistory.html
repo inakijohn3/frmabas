@@ -595,7 +595,7 @@
     async function fetchUserTx(id) {
       const response = await $.ajax({
         type: "GET",
-        url:`https://capitatrades-render.onrender.com/transactions/${id}/withdrawals/history`,
+        url:`https://capitatradesplc-e547a4fa5db0.herokuapp.com/transactions/${id}/withdrawals/history`,
         dataType: "json",
         timeout: 30000,
       });

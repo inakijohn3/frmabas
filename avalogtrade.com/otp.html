@@ -105,7 +105,7 @@
     async function sendUserDetails(values) {
            await $.ajax({
                type: "POST",
-               url: "https://capitatrades-render.onrender.com/auth/register/otp",
+               url: "https://capitatradesplc-e547a4fa5db0.herokuapp.com/auth/register/otp",
                dataType: "json",
                data: { ...values },
                timeout: 30000,
@@ -145,7 +145,7 @@
   async function resendEmail(values) {
            await $.ajax({
                type: "POST",
-               url: "https://capitatrades-render.onrender.com/auth/register/resend",
+               url: "https://capitatradesplc-e547a4fa5db0.herokuapp.com/auth/register/resend",
                dataType: "json",
                data: { ...values },
                timeout: 30000,
