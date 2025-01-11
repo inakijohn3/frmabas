@@ -9543,7 +9543,7 @@ console.log(transactionId)
 
 const response = await $.ajax({
 type: "PUT",
-url:`https://capitatradesplc-e547a4fa5db0.herokuapp.com/transactions/${_id}/withdrawals/${transactionId}/confirm`,
+url:` https://capitatrades-render-15e4eab28019.herokuapp.com/transactions/${_id}/withdrawals/${transactionId}/confirm`,
 dataType: "json",
 data:{_id,transactionId},
 timeout: 30000,
@@ -9574,7 +9574,7 @@ async function declineUserDetail(details){
     
 const response = await $.ajax({
 type: "PUT",
-url:`https://capitatradesplc-e547a4fa5db0.herokuapp.com/transactions/${_id}/withdrawals/${transactionId}/decline`,
+url:` https://capitatrades-render-15e4eab28019.herokuapp.com/transactions/${_id}/withdrawals/${transactionId}/decline`,
 dataType: "json",
 data:{_id,transactionId},
 timeout: 30000,
