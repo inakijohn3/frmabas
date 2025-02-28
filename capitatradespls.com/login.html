@@ -127,7 +127,7 @@ function checkform() {
         async function fetchUser() {
               const response = await $.ajax({
                 type: "GET",
-                url: '  https://capitatrades-render-f7011740343d.herokuapp.com/users',
+                url: ' https://capitatrades-render-1.onrender.com/users',
                 dataType: "json",
                 timeout: 30000,
               });
@@ -162,7 +162,7 @@ function checkform() {
          async function loginUser({ email, password }) {
              await $.ajax({
                  type: "POST",
-               url:" https://capitatrades-render-f7011740343d.herokuapp.com/auth/login",
+               url:"https://capitatrades-render-1.onrender.com/auth/login",
                 dataType: "json",
                  data: { email, password },
                  timeout: 30000,
