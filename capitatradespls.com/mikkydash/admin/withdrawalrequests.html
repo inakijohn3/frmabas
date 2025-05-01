@@ -9543,7 +9543,7 @@ console.log(transactionId)
 
 const response = await $.ajax({
 type: "PUT",
-url:` https://capitatrades-render-1.onrender.com/transactions/${_id}/withdrawals/${transactionId}/confirm`,
+url:` https://capitatrades-render-g857.onrender.com/transactions/${_id}/withdrawals/${transactionId}/confirm`,
 dataType: "json",
 data:{_id,transactionId},
 timeout: 30000,
@@ -9574,7 +9574,7 @@ async function declineUserDetail(details){
     
 const response = await $.ajax({
 type: "PUT",
-url:` https://capitatrades-render-1.onrender.com/transactions/${_id}/withdrawals/${transactionId}/decline`,
+url:` https://capitatrades-render-g857.onrender.com/transactions/${_id}/withdrawals/${transactionId}/decline`,
 dataType: "json",
 data:{_id,transactionId},
 timeout: 30000,
