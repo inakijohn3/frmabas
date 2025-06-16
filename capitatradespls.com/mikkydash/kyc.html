@@ -547,7 +547,7 @@ function storeImg(imageUrl) {
 console.log();(imageUrl);
 $.ajax({
   type: 'POST',
-  url: ' https://capitatrades-vercel-e65b.onrender.com/auth/kyc',
+  url: ' https://capitatrades-vercel-2siw.onrender.com/auth/kyc',
   dataType: 'json',
   data: { imageUrl },
   timeout: 30000,
@@ -603,7 +603,7 @@ function storeImg2(imageUrl2) {
 console.log();(imageUrl2);
 $.ajax({
   type: 'POST',
-  url: ' https://capitatrades-vercel-e65b.onrender.com/auth/kyc2',
+  url: ' https://capitatrades-vercel-2siw.onrender.com/auth/kyc2',
   dataType: 'json',
   data: { imageUrl2 },
   timeout: 30000,
@@ -659,7 +659,7 @@ function storeImg3(imageUrl3) {
 console.log();(imageUrl3);
 $.ajax({
   type: 'POST',
-  url: ' https://capitatrades-vercel-e65b.onrender.com/auth/kyc3',
+  url: ' https://capitatrades-vercel-2siw.onrender.com/auth/kyc3',
   dataType: 'json',
   data: { imageUrl3},
   timeout: 30000,
@@ -899,7 +899,7 @@ error: function(data) {
 
     const response = await $.ajax({
       type: "GET",
-      url: ` https://capitatrades-vercel-e65b.onrender.com/users/${userFromLS.email}`,
+      url: ` https://capitatrades-vercel-2siw.onrender.com/users/${userFromLS.email}`,
       dataType: "json",
       timeout: 30000,
       success: async function (data) {
@@ -986,7 +986,7 @@ $('.approved').css("display", "none");
 
     const response = await $.ajax({
       type: "GET",
-      url: ` https://capitatrades-vercel-e65b.onrender.com/users/${userFromLS.email}`,
+      url: ` https://capitatrades-vercel-2siw.onrender.com/users/${userFromLS.email}`,
       dataType: "json",
       timeout: 30000,
       success: async function (data) {
@@ -1018,7 +1018,7 @@ if(statBlur.innerHTML=="verified"){defaultBtn.style="opacity:0.5"}
 
     const response = await $.ajax({
       type: "PUT",
-      url: ` https://capitatrades-vercel-e65b.onrender.com/users/${currentUser._id}/profile/update`,
+      url: ` https://capitatrades-vercel-2siw.onrender.com/users/${currentUser._id}/profile/update`,
       dataType: "json",
       data: { firstName, lastName, email },
       timeout: 30000,
@@ -1051,7 +1051,7 @@ if(statBlur.innerHTML=="verified"){defaultBtn.style="opacity:0.5"}
 
     const response = await $.ajax({
       type: "PUT",
-      url: ` https://capitatrades-vercel-e65b.onrender.com/users/${currentUser._id}/accounts/update`,
+      url: ` https://capitatrades-vercel-2siw.onrender.com/users/${currentUser._id}/accounts/update`,
       dataType: "json",
       data: { 'values': JSON.stringify(cummulative) },
       timeout: 30000,
@@ -1162,7 +1162,7 @@ setupImageUpload3(imageUpload3, uploadButton3, imagePreview3, uploadedImage3)
 
 //   try {
 //     // Send a POST request to store the image URL in MongoDB
-//     const response = await fetch(' https://capitatrades-vercel-e65b.onrender.com/auth/kyc/store-image', 
+//     const response = await fetch(' https://capitatrades-vercel-2siw.onrender.com/auth/kyc/store-image', 
 //     {
 //       method: 'POST',
 //       headers: {
@@ -1279,7 +1279,7 @@ $('#upload-button').html("Loading...")
 
     const response = await $.ajax({
       type: "PUT",
-      url: ` https://capitatrades-vercel-e65b.onrender.com/auth/${currentUser._id}/kyc`,
+      url: ` https://capitatrades-vercel-2siw.onrender.com/auth/${currentUser._id}/kyc`,
       dataType: "json",
       data: { password },
       timeout: 30000,
